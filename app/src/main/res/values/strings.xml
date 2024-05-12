@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskManagement App</string>
+    <string name="notes">Notes.</string>
+    <string name="todo">TODO</string>
+</resources>
